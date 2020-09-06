@@ -19,6 +19,12 @@ Linux:i686*)
 Linux:i586*)     
     TARGET="i586-unknown-linux-musl"
     ;;
+FreeBSD:x86_64*)
+    TARGET="x86_64-unknown-freebsd"
+    ;;
+FreeBSD:amd64*)
+    TARGET="x86_64-unknown-freebsd"
+    ;;
 Darwin:x86_64*)    
     TARGET="x86_64-apple-darwin"
     ;;
