@@ -343,7 +343,7 @@ checksum = "7360491ce676a36bf9bb3c56c1aa791658183a54d2744120f27285738d90465a"
 [[package]]
 name = "filedescriptor"
 version = "0.7.2"
-source = "git+https://github.com/TimeToogo/wezterm#429b02003b7c9e78c49602bd36b1501aa672e15a"
+source = "git+https://github.com/TimeToogo/wezterm#a4fda634dd836c7c8d00b69864019ebe7838d841"
 dependencies = [
  "anyhow",
  "libc",
@@ -1175,7 +1175,7 @@ checksum = "d36492546b6af1463394d46f0c834346f31548646f6ba10849802c9c9a27ac33"
 [[package]]
 name = "portable-pty"
 version = "0.3.0"
-source = "git+https://github.com/TimeToogo/wezterm#429b02003b7c9e78c49602bd36b1501aa672e15a"
+source = "git+https://github.com/TimeToogo/wezterm#a4fda634dd836c7c8d00b69864019ebe7838d841"
 dependencies = [
  "anyhow",
  "bitflags",
